@@ -48,7 +48,7 @@ MainActivity
 Apos inserir os dados pedidos podendo em Peso em Kg e Altura em M, podendo ser valor decimal. 
 
 O app calcula o IMC usando peso dividido pela altura vezes a altura. Depois mostra o resultado e a classificacao. O Switch permite arredondar o valor gerado apos isso
-mostrara o IMC e a classificacao
+mostrara o IMC e a classificacao feito pela formula peso kg, altura  m → IMC = kg / (m × m) = IMC
 
 As classificacoes sao: abaixo do peso, peso normal, sobrepeso e obesidade.
 
